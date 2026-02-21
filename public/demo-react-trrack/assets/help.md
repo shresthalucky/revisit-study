@@ -1,2 +1,4 @@
-This is a click accuracy test. Try to click on the moving dot, and see how accurate you are. The distance between center of the dot and your click position will be shown on sidebar. 
-You can use the slider to adjust the speed of the dot.
+This is an RGB color task.
+Use the three color controls (red, green, blue) to add color counts to your record, and the remove controls to decrease a count.
+Your normalized selected color is shown in the preview circle and updates in the sidebar.
+You can proceed once at least one color is selected.
